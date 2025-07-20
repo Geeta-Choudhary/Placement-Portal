@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/shireen-vir/FC-Placement-Portal.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Harish-Kushwah/placement-portal.git
