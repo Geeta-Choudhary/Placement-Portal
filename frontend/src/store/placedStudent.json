@@ -1,0 +1,12 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "name": "Ganesh Mali",
+            "position": "Software Developer",
+            "company": "Google",
+            "img_url":"https://randomuser.me/api/portraits"
+        }
+       
+    ]
+}

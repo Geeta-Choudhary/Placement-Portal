@@ -1,0 +1,10 @@
+SQLAlchemy>=2.0.0
+mysql-connector-python>=8.0.0
+python-dotenv>=0.19.0
+apispec
+Flask==3.0.3
+flask-swagger-ui==4.11.1
+flask-cors==4.0.1
+apispec==6.6.1
+apispec-webframeworks==1.1.0
+marshmallow==3.21.2

@@ -1,0 +1,212 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "BluepineApple",
+            "roles": ["Software Development Engineer"],
+            "date": "2024-03-25",
+            "link": "https://www.bluepineapple.io/",
+            "status": "Completed",
+            "description": "BluepineApple is hiring for software development roles.",
+            "applications": 150,
+            "registeredStudents": [
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" },
+                { "id": 1, "name": "Mali Ganesh Rajendra", "rollNo": "246209", "email": "ganeshmali.fc@gmail.com" },
+                { "id": 2, "name": "Tile Harshad Bhagwan", "rollNo": "246211", "email": "tileharshad@gmail.com" }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "TechCorp",
+            "roles": ["Software Engineer"],
+            "date": "2025-04-10",
+            "link": "https://www.techcorp.com/",
+            "status": "Scheduled",
+            "description": "TechCorp is hiring for software engineering roles.",
+            "applications": 120,
+            "registeredStudents": [
+                { "id": 1, "name": "John Smith", "rollNo": "CS20240", "email": "john@example.com" },
+                { "id": 2, "name": "Sarah Wilson", "rollNo": "CS2024002", "email": "sarah@example.com" }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "InnovateX",
+            "roles": ["Data Scientist"],
+            "date": "2025-04-15",
+            "link": "https://www.innovatex.com/",
+            "status": "In Progress",
+            "description": "InnovateX is conducting a placement drive for data science roles.",
+            "applications": 85,
+            "registeredStudents": [
+                { "id": 3, "name": "Mike Johnson", "rollNo": "CS2024003", "email": "mike@example.com" }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "DataMinds",
+            "roles": ["Machine Learning Engineer"],
+            "date": "2025-04-20",
+            "link": "https://www.dataminds.com/",
+            "status": "Upcoming",
+            "description": "DataMinds is looking for machine learning engineers.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 5,
+            "name": "FinTech Solutions",
+            "roles": ["Finance Analyst", "Software Developer"],
+            "date": "2025-04-25",
+            "link": "https://www.fintechsolutions.com/",
+            "status": "Upcoming",
+            "description": "FinTech Solutions is hiring finance analysts and software developers.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 6,
+            "name": "CyberSecure",
+            "roles": ["Cybersecurity Analyst"],
+            "date": "2025-04-30",
+            "link": "https://www.cybersecure.com/",
+            "status": "Upcoming",
+            "description": "CyberSecure is recruiting cybersecurity analysts.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 7,
+            "name": "AutoAI",
+            "roles": ["AI Engineer", "Autonomous Systems Engineer"],
+            "date": "2025-05-05",
+            "link": "https://www.autoai.com/",
+            "status": "Upcoming",
+            "description": "AutoAI is hiring for AI and autonomous systems engineers.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 8,
+            "name": "GreenEnergy",
+            "roles": ["Sustainability Engineer", "Energy Engineer"],
+            "date": "2025-05-08",
+            "link": "https://www.greenenergy.com/",
+            "status": "Upcoming",
+            "description": "GreenEnergy is recruiting sustainability and energy engineers.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 9,
+            "name": "CloudNet",
+            "roles": ["Cloud Computing Engineer", "DevOps Engineer"],
+            "date": "2025-05-12",
+            "link": "https://www.cloudnet.com/",
+            "status": "Upcoming",
+            "description": "CloudNet is looking for cloud computing and DevOps engineers.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 10,
+            "name": "HealthTech",
+            "roles": ["Biomedical Engineer", "Software Engineer"],
+            "date": "2025-05-16",
+            "link": "https://www.healthtech.com/",
+            "status": "Upcoming",
+            "description": "HealthTech is hiring biomedical and software engineers.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 11,
+            "name": "RetailTech",
+            "roles": ["Business Analyst", "Software Engineer"],
+            "date": "2025-05-20",
+            "link": "https://www.retailtech.com/",
+            "status": "Upcoming",
+            "description": "RetailTech is hiring business analysts and software engineers.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 12,
+            "name": "EdgeCompute",
+            "roles": ["Edge Computing Specialist"],
+            "date": "2025-05-24",
+            "link": "https://www.edgecompute.com/",
+            "status": "Upcoming",
+            "description": "EdgeCompute is looking for edge computing specialists.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 13,
+            "name": "SmartInfra",
+            "roles": ["IoT Engineer", "Automation Engineer"],
+            "date": "2025-05-28",
+            "link": "https://www.smartinfra.com/",
+            "status": "Upcoming",
+            "description": "SmartInfra is recruiting IoT and automation engineers.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 14,
+            "name": "NextGen Robotics",
+            "roles": ["Robotics Engineer", "AI Specialist"],
+            "date": "2025-06-",
+            "link": "https://www.nextgenrobotics.com/",
+            "status": "Upcoming",
+            "description": "NextGen Robotics is hiring for robotics and AI roles.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 15,
+            "name": "EduTech",
+            "roles": ["Software Developer", "Content Creator"],
+            "date": "2025-06-05",
+            "link": "https://www.edutech.com/",
+            "status": "Upcoming",
+            "description": "EduTech is looking for software developers and content creators.",
+            "applications": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 16,
+            "name": "QuantumComputing Inc.",
+            "roles": ["Quantum Computing Researcher"],
+            "date": "2025-06-10",
+            "link": "https://www.quantumcomputing.com/",
+            "status": "Upcoming",
+            "description": "QuantumComputing Inc. is hiring quantum computing researchers.",
+            "applications": 0,
+            "registeredStudents": []
+        }
+    ]
+}

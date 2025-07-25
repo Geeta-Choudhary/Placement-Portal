@@ -1,0 +1,167 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Resume Building Workshop",
+            "date": "2025-04-01",
+            "status": "Completed",
+            "description": "Learn how to build a professional resume.",
+            "link": "https://www.careerprep.com/resume-workshop",
+            "participants": 0,
+            "registeredStudents": [
+                {
+                    "id": 1,
+                    "name": "Mali Ganesh Rajendra",
+                    "rollNo": "246209",
+                    "email": "ganeshmali.fc@gmail.com"
+                  },
+                  {
+                    "id": 2,
+                    "name": "Tile Harshad Bhagwan",
+                    "rollNo": "246211",
+                    "email": "tileharshad@gmail.com"
+                  }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Mock Interview Session",
+            "date": "2025-04-05",
+            "status": "Upcoming",
+            "description": "Practice your interview skills with experts.",
+            "link": "https://www.careerprep.com/mock-interview",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 3,
+            "title": "Aptitude Test Preparation",
+            "date": "2025-04-08",
+            "status": "Upcoming",
+            "description": "Enhance your aptitude skills for placement exams.",
+            "link": "https://www.careerprep.com/aptitude-prep",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 4,
+            "title": "Group Discussion Training",
+            "date": "2025-04-12",
+            "status": "Upcoming",
+            "description": "Improve your communication and teamwork skills.",
+            "link": "https://www.careerprep.com/gd-training",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 5,
+            "title": "Industry Expert Talk",
+            "date": "2025-04-18",
+            "status": "Upcoming",
+            "description": "Gain insights from industry leaders on career growth.",
+            "link": "https://www.careerprep.com/expert-talk",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 6,
+            "title": "Personal Branding Workshop",
+            "date": "2025-04-22",
+            "status": "Upcoming",
+            "description": "Learn how to create a strong online presence for career success.",
+            "link": "https://www.careerprep.com/personal-branding",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 7,
+            "title": "Technical Skills Bootcamp",
+            "date": "2025-04-25",
+            "status": "Upcoming",
+            "description": "Hands-on training on programming and technical concepts.",
+            "link": "https://www.careerprep.com/tech-bootcamp",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 8,
+            "title": "Coding Challenge",
+            "date": "2025-04-28",
+            "status": "Upcoming",
+            "description": "Participate in a competitive coding event to test your skills.",
+            "link": "https://www.careerprep.com/coding-challenge",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 9,
+            "title": "Soft Skills Development",
+            "date": "2025-05-02",
+            "status": "Upcoming",
+            "description": "Improve communication, leadership, and teamwork skills.",
+            "link": "https://www.careerprep.com/soft-skills",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 10,
+            "title": "HR Round Simulation",
+            "date": "2025-05-06",
+            "status": "Upcoming",
+            "description": "Understand HR interview questions and best answers.",
+            "link": "https://www.careerprep.com/hr-simulation",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 11,
+            "title": "Networking Event",
+            "date": "2025-05-10",
+            "status": "Upcoming",
+            "description": "Connect with alumni and recruiters for job opportunities.",
+            "link": "https://www.careerprep.com/networking-event",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 12,
+            "title": "Live Project Experience",
+            "date": "2025-05-15",
+            "status": "Upcoming",
+            "description": "Work on a real-world project to enhance your resume.",
+            "link": "https://www.careerprep.com/live-project",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 13,
+            "title": "Salary Negotiation Tips",
+            "date": "2025-05-18",
+            "status": "Upcoming",
+            "description": "Learn how to negotiate salaries effectively.",
+            "link": "https://www.careerprep.com/salary-negotiation",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 14,
+            "title": "AI & Data Science Career Guidance",
+            "date": "2025-05-22",
+            "status": "Upcoming",
+            "description": "Explore career opportunities in AI and Data Science.",
+            "link": "https://www.careerprep.com/ai-ds-guidance",
+            "participants": 0,
+            "registeredStudents": []
+        },
+        {
+            "id": 15,
+            "title": "Cybersecurity Awareness",
+            "date": "2025-05-26",
+            "status": "Upcoming",
+            "description": "Learn about cybersecurity trends and job roles.",
+            "link": "https://www.careerprep.com/cybersecurity-awareness",
+            "participants": 0,
+            "registeredStudents": []
+        }
+    ]
+}

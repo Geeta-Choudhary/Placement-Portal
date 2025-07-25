@@ -1,0 +1,1373 @@
+{
+  "data": [
+    {
+      "userProfile": {
+        "name": "Mali Ganesh Rajendra",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Python", "Java"],
+        "email": "ganeshmali.fc@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246209,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "ganeshmali", "url": "https://leetcode.com/ganeshmali" },
+        { "name": "hackerrank", "username": "ganarm2003", "url": "https://www.hackerrank.com/profile/ganarm2003" },
+        { "name": "linkedin", "username": "www.linkedin.com/in/ganesh-mali-114a15280", "url": "https://www.linkedin.com/in/www.linkedin.com/in/ganesh-mali-114a15280" },
+        { "name": "github", "username": "ganarm", "url": "https://github.com/ganarm" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 100, 10, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Tile Harshad Bhagwan",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["C", "CPP", "Java", "Python", "HTML5", "CSS3", "Javascript."],
+        "email": "tileharshad@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246211,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/4OfX1YiJE3", "url": "https://leetcode.com/u/4OfX1YiJE3" },
+        { "name": "hackerrank", "username": "tileharshad", "url": "https://www.hackerrank.com/profile/tileharshad" },
+        { "name": "linkedin", "username": "harshad-tile-373b79280", "url": "https://www.linkedin.com/in/harshad-tile-373b79280" },
+        { "name": "github", "username": "github.com/HarshadTile", "url": "https://github.com/github.com/HarshadTile" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Kanojiya Nishidh Sunil",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Python"],
+        "email": "nishidhk2004@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246231,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/Nishidh09", "url": "https://leetcode.com/u/Nishidh09" },
+        { "name": "hackerrank", "username": "nishidhk04", "url": "https://www.hackerrank.com/profile/nishidhk04" },
+        { "name": "linkedin", "username": "nishidh-kanojiya-5b59ab270", "url": "https://www.linkedin.com/in/nishidh-kanojiya-5b59ab270" },
+        { "name": "github", "username": "NishidhKanojiya", "url": "https://github.com/NishidhKanojiya" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Sonavane Yuvraj Tushar",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Python"],
+        "email": "yuvasmail1@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246263,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "Yuvraj Sonavane", "url": "https://leetcode.com/Yuvraj Sonavane" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "Yuvraj Sonavane", "url": "https://www.linkedin.com/in/Yuvraj Sonavane" },
+        { "name": "github", "username": "Yuvraj Sonavane aka fudo", "url": "https://github.com/Yuvraj Sonavane aka fudo" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Gade Tushar Janardan",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["java", "python", "c", "html", "css", "js", "php", "MySql"],
+        "email": "tushargade205@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246225,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/tushargade01", "url": "https://leetcode.com/u/tushargade01" },
+        { "name": "hackerrank", "username": "tushargade01", "url": "https://www.hackerrank.com/profile/tushargade01" },
+        { "name": "linkedin", "username": "tushargade01", "url": "https://www.linkedin.com/in/tushargade01" },
+        { "name": "github", "username": "tushargade01", "url": "https://github.com/tushargade01" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Andhale Krushna Sunil",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["C Language", "Core Java", "Core Python"],
+        "email": "krushnaandhale2246@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246247,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/Krushna_Andhale", "url": "https://leetcode.com/u/Krushna_Andhale" },
+        { "name": "hackerrank", "username": "andhalekrushna55", "url": "https://www.hackerrank.com/profile/andhalekrushna55" },
+        { "name": "linkedin", "username": "krushna-andhale-811831265", "url": "https://www.linkedin.com/in/krushna-andhale-811831265" },
+        { "name": "github", "username": "krushna2246", "url": "https://github.com/krushna2246" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Jamdade Sakshi Ramchandra",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Java", "C", "Python"],
+        "email": "Jamdadesakshi2910@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246221,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/Sakshi-Jamdade", "url": "https://leetcode.com/u/Sakshi-Jamdade" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "sakshi-jamdade", "url": "https://www.linkedin.com/in/sakshi-jamdade" },
+        { "name": "github", "username": "Sakshi-Jamdade", "url": "https://github.com/Sakshi-Jamdade" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Shinde Raghuveer Rajendra",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["java", "python", "react", "springboot", "c"],
+        "email": "raghuveershinde1249@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246218,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/raghuveer_shinde", "url": "https://leetcode.com/u/raghuveer_shinde" },
+        { "name": "hackerrank", "username": "raghuveershinde1", "url": "https://www.hackerrank.com/profile/raghuveershinde1" },
+        { "name": "linkedin", "username": "raghuveer-shinde-b92ba024a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "url": "https://www.linkedin.com/in/raghuveer-shinde-b92ba024a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+        { "name": "github", "username": "", "url": "https://github.com/" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Ghade Sanika Rajesh",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["c", "java", "html", "css", "js"],
+        "email": "sanikag2110@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246222,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/Sanikag2110", "url": "https://leetcode.com/u/Sanikag2110" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "sanika-ghade-b176b8249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "url": "https://www.linkedin.com/in/sanika-ghade-b176b8249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+        { "name": "github", "username": "Sanika2110", "url": "https://github.com/Sanika2110" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Tekade Shireen Narayan",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Python", "Chemical Informatics", "Excel Automation", "Hashing & Data Integrity", "SharePoint & Microsoft Graph API", "JSON Processing & Data Transformation"],
+        "email": "shireen.tekade@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246223,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "", "url": "https://leetcode.com/" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "shireen-tekade-7061662b9", "url": "https://www.linkedin.com/in/shireen-tekade-7061662b9" },
+        { "name": "github", "username": "shireen-vir", "url": "https://github.com/shireen-vir" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Bhandare Vivek Vinod",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": [],
+        "email": "vivekbhandare613@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246264,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/vivekbhandare613", "url": "https://leetcode.com/u/vivekbhandare613" },
+        { "name": "hackerrank", "username": "vivekbhandare613", "url": "https://www.hackerrank.com/profile/vivekbhandare613" },
+        { "name": "linkedin", "username": "vivek-bhandare-280900217", "url": "https://www.linkedin.com/in/vivek-bhandare-280900217" },
+        { "name": "github", "username": "", "url": "https://github.com/" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Jambhule Vaidai Ajabrao",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": [],
+        "email": "vjambhule123@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246226,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "vaidai10", "url": "https://leetcode.com/vaidai10" },
+        { "name": "hackerrank", "username": "@vjambhule123", "url": "https://www.hackerrank.com/profile/@vjambhule123" },
+        { "name": "linkedin", "username": "Vaidai Jambhule", "url": "https://www.linkedin.com/in/Vaidai Jambhule" },
+        { "name": "github", "username": "vaidai01", "url": "https://github.com/vaidai01" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Garud Madhavi Santosh",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["C", "C++", "HTML", "python"],
+        "email": "madhavigarud013@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246213,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "madhavigarud85", "url": "https://leetcode.com/madhavigarud85" },
+        { "name": "hackerrank", "username": "@madhavigarud013", "url": "https://www.hackerrank.com/profile/@madhavigarud013" },
+        { "name": "linkedin", "username": "madhavi-garud-bb0363257", "url": "https://www.linkedin.com/in/madhavi-garud-bb0363257" },
+        { "name": "github", "username": "", "url": "https://github.com/" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Dhavale Ajinkya Balasaheb",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Java", "c", "SQL", "MERN stack"],
+        "email": "ajinkyadhavale9604@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246202,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/i3TSyFf7IG", "url": "https://leetcode.com/u/i3TSyFf7IG" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "https://linkedin.com/in/ajinkya-dhavale-6a620624b", "url": "https://www.linkedin.com/in/https://linkedin.com/in/ajinkya-dhavale-6a620624b" },
+        { "name": "github", "username": "Ajinkya-Dhavale", "url": "https://github.com/Ajinkya-Dhavale" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Sahil Dattatray Shejal",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": [],
+        "email": "shejalsahil3@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246220,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "sahil8443", "url": "https://leetcode.com/sahil8443" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "Sahil Shejal", "url": "https://www.linkedin.com/in/Sahil Shejal" },
+        { "name": "github", "username": "sahil8443", "url": "https://github.com/sahil8443" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Borase Janardan Chandrakant",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["c", "web dev", "python"],
+        "email": "janardhanborse2003@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246268,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/Janardhan_04", "url": "https://leetcode.com/u/Janardhan_04" },
+        { "name": "hackerrank", "username": "janardhanborse21", "url": "https://www.hackerrank.com/profile/janardhanborse21" },
+        { "name": "linkedin", "username": "janardan-borase-25a546232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "url": "https://www.linkedin.com/in/janardan-borase-25a546232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+        { "name": "github", "username": "janardan04", "url": "https://github.com/janardan04" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Kushwah Harishchandrasing Sahabsing",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Placed",
+        "skills": ["Python", "java"],
+        "email": "harishkushwah54321@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246245,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/Harish-Kushwah", "url": "https://leetcode.com/u/Harish-Kushwah" },
+        { "name": "hackerrank", "username": "harishkushwah541", "url": "https://www.hackerrank.com/profile/harishkushwah541" },
+        { "name": "linkedin", "username": "harish-kushwah", "url": "https://www.linkedin.com/in/harish-kushwah" },
+        { "name": "github", "username": "Harish-Kushwah", "url": "https://github.com/Harish-Kushwah" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Rathod Sunil Tarachand",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["MERN", "HTML", "CSS", "JS", "JQUERY", "C", "PYTHON", "JAVA"],
+        "email": "sunilrathod.0336@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246259,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/SunilRathod03", "url": "https://leetcode.com/u/SunilRathod03" },
+        { "name": "hackerrank", "username": "sunilrathod_0336", "url": "https://www.hackerrank.com/profile/sunilrathod_0336" },
+        { "name": "linkedin", "username": "sunil-rathod-18b1511b5", "url": "https://www.linkedin.com/in/sunil-rathod-18b1511b5" },
+        { "name": "github", "username": "sunil0336", "url": "https://github.com/sunil0336" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Patil Pushkar Ravindra",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["C", "web-dev", "java basic"],
+        "email": "pushkarpatil7262@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246251,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/Pushkar1Patil", "url": "https://leetcode.com/u/Pushkar1Patil" },
+        { "name": "hackerrank", "username": "pushkarpatil7262", "url": "https://www.hackerrank.com/profile/pushkarpatil7262" },
+        { "name": "linkedin", "username": "pushkar-patil-2371a8321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "url": "https://www.linkedin.com/in/pushkar-patil-2371a8321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+        { "name": "github", "username": "PushkarRPatil", "url": "https://github.com/PushkarRPatil" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Gardi Suraj Vikas",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Java", "C", "Python"],
+        "email": "surajgardi0707@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246265,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "SurajGardi", "url": "https://leetcode.com/SurajGardi" },
+        { "name": "hackerrank", "username": "@surajgardi0707", "url": "https://www.hackerrank.com/profile/@surajgardi0707" },
+        { "name": "linkedin", "username": "suraj-gardi-1099222a8", "url": "https://www.linkedin.com/in/suraj-gardi-1099222a8" },
+        { "name": "github", "username": "SurajGardi", "url": "https://github.com/SurajGardi" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Kadam Dhanashri Balasaheb",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["python", "java"],
+        "email": "dhanashreekadam944@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246243,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "", "url": "https://leetcode.com/" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "dhanashri-kadam-a53065327", "url": "https://www.linkedin.com/in/dhanashri-kadam-a53065327" },
+        { "name": "github", "username": "Dhanashree944", "url": "https://github.com/Dhanashree944" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Mapari Aditya lakshman",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["c", "c++"],
+        "email": "adityamapari13@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246236,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "Adi7738", "url": "https://leetcode.com/Adi7738" },
+        { "name": "hackerrank", "username": "Aditya Mapari", "url": "https://www.hackerrank.com/profile/Aditya Mapari" },
+        { "name": "linkedin", "username": "Aditya Mapari", "url": "https://www.linkedin.com/in/Aditya Mapari" },
+        { "name": "github", "username": "", "url": "https://github.com/" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "More Devyani Sanjay",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["C", "C++", "Java", "Python", "Html", "CSS"],
+        "email": "devyanimore163@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246208,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "", "url": "https://leetcode.com/" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "devyani-more-225623282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "url": "https://www.linkedin.com/in/devyani-more-225623282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+        { "name": "github", "username": "Devyani007", "url": "https://github.com/Devyani007" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Yadav Vasundhara Rahul",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Java", "python", "sql", "html and css"],
+        "email": "vasundharayadav222@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246248,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "", "url": "https://leetcode.com/" },
+        { "name": "hackerrank", "username": "@vasundharayadav1", "url": "https://www.hackerrank.com/profile/@vasundharayadav1" },
+        { "name": "linkedin", "username": "vasundhara-yadav-149410296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "url": "https://www.linkedin.com/in/vasundhara-yadav-149410296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+        { "name": "github", "username": "VasundharaYadav", "url": "https://github.com/VasundharaYadav" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Patare Rushikesh Balasaheb",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Java"],
+        "email": "patarerushikesh8@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246254,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "Rushikesh Patare", "url": "https://leetcode.com/Rushikesh Patare" },
+        { "name": "hackerrank", "username": "Rushikesh Patare", "url": "https://www.hackerrank.com/profile/Rushikesh Patare" },
+        { "name": "linkedin", "username": "Rushikesh Patare", "url": "https://www.linkedin.com/in/Rushikesh Patare" },
+        { "name": "github", "username": "Rushipatare45", "url": "https://github.com/Rushipatare45" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Gujar kajal Sunil",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["C", "html", "css", "javascript", "java"],
+        "email": "gujarkajal0904@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246267,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "", "url": "https://leetcode.com/" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "kajal-gujar-92431933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "url": "https://www.linkedin.com/in/kajal-gujar-92431933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+        { "name": "github", "username": "Kajal-Gujar", "url": "https://github.com/Kajal-Gujar" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Pare Prajakta Prabhakar",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": [],
+        "email": "prajaktapare19@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246249,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "", "url": "https://leetcode.com/" },
+        { "name": "hackerrank", "username": "prajaktapare19", "url": "https://www.hackerrank.com/profile/prajaktapare19" },
+        { "name": "linkedin", "username": "prajakta-pare-251353323", "url": "https://www.linkedin.com/in/prajakta-pare-251353323" },
+        { "name": "github", "username": "PrajaktaPare", "url": "https://github.com/PrajaktaPare" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Choudhary Geeta Gamnaram",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Python", "C"],
+        "email": "geetaseervi.2002@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246244,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "u/geetac123", "url": "https://leetcode.com/u/geetac123" },
+        { "name": "hackerrank", "username": "", "url": "https://www.hackerrank.com/profile/" },
+        { "name": "linkedin", "username": "geeta-choudhary-a5710a337", "url": "https://www.linkedin.com/in/geeta-choudhary-a5710a337" },
+        { "name": "github", "username": "Geeta-Choudhary", "url": "https://github.com/Geeta-Choudhary" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Deepvijay chavan",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": [],
+        "email": "chavandeepvijay@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246242,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "Deepvijay2003", "url": "https://leetcode.com/Deepvijay2003" },
+        { "name": "hackerrank", "username": "Chavandeepvijay", "url": "https://www.hackerrank.com/profile/Chavandeepvijay" },
+        { "name": "linkedin", "username": "deepvijay-chavan-346772253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "url": "https://www.linkedin.com/in/deepvijay-chavan-346772253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+        { "name": "github", "username": "", "url": "https://github.com/" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "More Aditya Satish",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Basic python", "java", "c"],
+        "email": "moreaditya144@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246201,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      },
+      "socialLinks": [
+        { "name": "leetcode", "username": "Adimore9116", "url": "https://leetcode.com/Adimore9116" },
+        { "name": "hackerrank", "username": "@moreaditya144", "url": "https://www.hackerrank.com/profile/@moreaditya144" },
+        { "name": "linkedin", "username": "www.linkedin.com/in/aditya-more-846158287", "url": "https://www.linkedin.com/in/www.linkedin.com/in/aditya-more-846158287" },
+        { "name": "github", "username": "Adi-9116", "url": "https://github.com/Adi-9116" }
+      ],
+      "pieData": [
+        { "value": 1048, "name": "Coding" },
+        { "value": 735, "name": "Aptitude" },
+        { "value": 580, "name": "Communication" }
+      ],
+      "barData": [120, 200, 150, 80, 70, 110, 130],
+      "activities": [
+        {
+          "title": "Registration for guest lecture on problem solving",
+          "description": "Do register for the guest lecture on problem solving by Google.",
+          "time": "2 hours ago",
+          "category": "info"
+        },
+        {
+          "title": "BluepineApple Drive selected students list now available",
+          "description": "Check your webmail for the list of selected students.",
+          "time": "1 day ago",
+          "category": "notification"
+        }
+      ]
+    },
+    {
+      "userProfile": {
+        "name": "Abuj Prakash Rajendra",
+        "degree": "MSc(CS)",
+        "profileImage": "profileImage",
+        "status": "Not-placed",
+        "skills": ["Java", "python", "c"],
+        "email": "prakashabuj8@gmail.com",
+        "cgpa": "9.4",
+        "batch": "2024-2025",
+        "semester": "2nd",
+        "roll_number": 246266,
+        "academics": [
+          { "label": "10th", "value": "N/A" },
+          { "label": "12th", "value": "N/A" },
+          { "label": "Graduation", "value": "9.4" }
+        ]
+      }
+    }
+  ]
+}

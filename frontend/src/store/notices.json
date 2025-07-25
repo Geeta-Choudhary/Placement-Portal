@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+            "id":1,
+            "title":"Registration for guest lecture on problem solving ",
+            "description":"Do register for the guest lecture on problem solving by Google. Details will be shared soon.",
+            "date_time":"2 hours ago",
+            "type":"info"
+        },
+        {
+            "id":2,
+            "title":"BluepineApple Drive selected students list now available",
+            "description":"Check your webmail for the list of selected students for the BluepineApple drive.",
+            "date_time":"1 day ago",
+            "type":"success"
+        }
+        
+    ]
+}

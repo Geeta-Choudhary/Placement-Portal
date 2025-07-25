@@ -1,0 +1,2000 @@
+{
+    "students": [
+        {
+            "name": "Mali Ganesh Rajendra",
+            "email": "ganeshmali.fc@gmail.com",
+            "phone_number": 9021817579,
+            "roll_number": 246209,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "ganeshmali"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "ganarm2003"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "www.linkedin.com/in/ganesh-mali-114a15280"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "ganarm"
+                }
+            ],
+            "skills": [
+                "Python",
+                "Java"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            },
+            "role": "Placement Coordinators"
+        },
+        {
+            "name": "Tile Harshad Bhagwan ",
+            "email": "tileharshad@gmail.com",
+            "phone_number": 7875623235,
+            "roll_number": 246211,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/4OfX1YiJE3"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "tileharshad"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "harshad-tile-373b79280"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "github.com/HarshadTile"
+                }
+            ],
+            "skills": [
+                "C",
+                "CPP",
+                "Java",
+                "Python",
+                "HTML5",
+                "CSS3",
+                "Javascript."
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Kanojiya Nishidh Sunil ",
+            "email": "nishidhk2004@gmail.com",
+            "phone_number": 9175209902,
+            "roll_number": 246231,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/Nishidh09"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "nishidhk04"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "nishidh-kanojiya-5b59ab270"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "NishidhKanojiya"
+                }
+            ],
+            "skills": [
+                "Python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Sonavane Yuvraj Tushar",
+            "email": "yuvasmail1@gmail.com",
+            "phone_number": 9270010103,
+            "roll_number": 246263,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "Yuvraj Sonavane "
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Yuvraj Sonavane "
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Yuvraj Sonavane aka fudo"
+                }
+            ],
+            "skills": [
+                "Python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Gade Tushar Janardan",
+            "email": "tushargade205@gmail.com",
+            "phone_number": 7387092151,
+            "roll_number": 246225,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/tushargade01"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "tushargade01"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "tushargade01"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "tushargade01"
+                }
+            ],
+            "skills": [
+                "java",
+                "python",
+                "c",
+                "html",
+                "css",
+                "js",
+                "php",
+                "MySql"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Andhale Krushna Sunil",
+            "email": "krushnaandhale2246@gmail.com",
+            "phone_number": 9890755044,
+            "roll_number": 246247,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/Krushna_Andhale"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "andhalekrushna55"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "krushna-andhale-811831265"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "krushna2246"
+                }
+            ],
+            "skills": [
+                "C Language",
+                "Core Java",
+                "Core Python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "JAMDADE SAKSHI RAMCHANDRA ",
+            "email": "Jamdadesakshi2910@gmail.com",
+            "phone_number": 9637950698,
+            "roll_number": 246221,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/Sakshi-Jamdade"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "sakshi-jamdade"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Sakshi-Jamdade"
+                }
+            ],
+            "skills": [
+                "Java",
+                "C",
+                "Python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Shinde Raghuveer Rajendra",
+            "email": "raghuveershinde1249@gmail.com",
+            "phone_number": 9637140158,
+            "roll_number": 246218,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/raghuveer_shinde"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "raghuveershinde1"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "raghuveer-shinde-b92ba024a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                "java",
+                "python",
+                "react",
+                "springboot",
+                "c"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Ghade Sanika Rajesh ",
+            "email": "sanikag2110@gmail.com",
+            "phone_number": 8275546322,
+            "roll_number": 246222,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/Sanikag2110"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "sanika-ghade-b176b8249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Sanika2110"
+                }
+            ],
+            "skills": [
+                "c",
+                "java",
+                "html",
+                "css",
+                "js"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Tekade Shireen Narayan",
+            "email": "shireen.tekade@gmail.com",
+            "phone_number": 9665055947,
+            "roll_number": 246223,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "shireen-tekade-7061662b9"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "shireen-vir"
+                }
+            ],
+            "skills": [
+                "Python",
+                "Chemical Informatics",
+                "Excel Automation",
+                "Hashing & Data Integrity",
+                "SharePoint & Microsoft Graph API",
+                "JSON Processing & Data Transformation"
+                
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Bhandare Vivek Vinod",
+            "email": "vivekbhandare613@gmail.com",
+            "phone_number": 9021085488,
+            "roll_number": 246264,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/vivekbhandare613"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "vivekbhandare613"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "vivek-bhandare-280900217"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Jambhule Vaidai Ajabrao",
+            "email": "vjambhule123@gmail.com",
+            "phone_number": 8208436425,
+            "roll_number": 246226,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "vaidai10"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "@vjambhule123"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Vaidai Jambhule"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "vaidai01"
+                }
+            ],
+            "skills": [
+                
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Garud Madhavi Santosh ",
+            "email": "madhavigarud013@gmail.com ",
+            "phone_number": 8767706725,
+            "roll_number": 246213,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "madhavigarud85"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "@madhavigarud013"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "madhavi-garud-bb0363257"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                "C",
+                "C++",
+                "HTML",
+                "python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Dhavale Ajinkya Balasaheb ",
+            "email": "ajinkyadhavale9604@gmail.com",
+            "phone_number": 9604912407,
+            "roll_number": 246202,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/i3TSyFf7IG"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "https://linkedin.com/in/ajinkya-dhavale-6a620624b"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Ajinkya-Dhavale"
+                }
+            ],
+            "skills": [
+                "Java",
+                "c",
+                "SQL",
+                "MERN stack"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Sahil Dattatray Shejal ",
+            "email": "shejalsahil3@gmail.com",
+            "phone_number": 9145236935,
+            "roll_number": 246220,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "sahil8443"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Sahil Shejal "
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "sahil8443"
+                }
+            ],
+            "skills": [
+                
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Borase Janardan Chandrakant",
+            "email": "janardhanborse2003@gmail.com",
+            "phone_number": 7038544159,
+            "roll_number": 246268,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/Janardhan_04"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "janardhanborse21"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "janardan-borase-25a546232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "janardan04"
+                }
+            ],
+            "skills": [
+                "c",
+                "web dev",
+                "python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Kushwah Harishchandrasing Sahabsing",
+            "email": "harishkushwah54321@gmail.com",
+            "phone_number": 8317210766,
+            "roll_number": 246245,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/Harish-Kushwah"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "harishkushwah541"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "harish-kushwah"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Harish-Kushwah"
+                }
+            ],
+            "skills": [
+                "Python",
+                "java"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Placed"
+            },
+            "profileImage":"profileImage"
+        },
+        {
+            "name": "Rathod Sunil Tarachand",
+            "email": "sunilrathod.0336@gmail.com",
+            "phone_number": 9890957016,
+            "roll_number": 246259,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/SunilRathod03"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "sunilrathod_0336"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "sunil-rathod-18b1511b5"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "sunil0336"
+                }
+            ],
+            "skills": [
+                "MERN",
+                "HTML",
+                "CSS",
+                "JS",
+                "JQUERY",
+                "C",
+                "PYTHON",
+                "JAVA"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Patil Pushkar Ravindra",
+            "email": "pushkarpatil7262@gmail.com",
+            "phone_number": 8262915362,
+            "roll_number": 246251,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/Pushkar1Patil"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "pushkarpatil7262"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "pushkar-patil-2371a8321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "PushkarRPatil"
+                }
+            ],
+            "skills": [
+                "C",
+                "web-dev",
+                "java basic"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Gardi Suraj Vikas",
+            "email": "surajgardi0707@gmail.com",
+            "phone_number": 9356823286,
+            "roll_number": 246265,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "SurajGardi"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "@surajgardi0707"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "suraj-gardi-1099222a8"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "SurajGardi"
+                }
+            ],
+            "skills": [
+                "Java",
+                "C",
+                "Python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Kadam Dhanashri Balasaheb",
+            "email": "dhanashreekadam944@gmail.com",
+            "phone_number": 9834782170,
+            "roll_number": 246243,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "dhanashri-kadam-a53065327"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Dhanashree944"
+                }
+            ],
+            "skills": [
+                "python",
+                "java"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Mapari Aditya lakshman ",
+            "email": "adityamapari13@gmail.com",
+            "phone_number": 7028773831,
+            "roll_number": 246236,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "Adi7738"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "Aditya Mapari"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Aditya Mapari"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                "c",
+                "c++"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "More Devyani Sanjay",
+            "email": "devyanimore163@gmail.com",
+            "phone_number": 8805036813,
+            "roll_number": 246208,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "devyani-more-225623282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Devyani007"
+                }
+            ],
+            "skills": [
+                "C",
+                "C++",
+                "Java",
+                "Python",
+                "Html",
+                "CSS"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Yadav Vasundhara Rahul ",
+            "email": "vasundharayadav222@gmail.com",
+            "phone_number": 9373757622,
+            "roll_number": 246248,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "@vasundharayadav1"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "vasundhara-yadav-149410296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "VasundharaYadav"
+                }
+            ],
+            "skills": [
+                "Java",
+                "python",
+                "sql",
+                "html and css"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Patare Rushikesh Balasaheb ",
+            "email": "patarerushikesh8@gmail.com",
+            "phone_number": 7083935685,
+            "roll_number": 246254,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "Rushikesh Patare "
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "Rushikesh Patare "
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Rushikesh Patare "
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Rushipatare45"
+                }
+            ],
+            "skills": [
+                "Java"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Gujar kajal Sunil ",
+            "email": "gujarkajal0904@gmail.com",
+            "phone_number": 8379041015,
+            "roll_number": 246267,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "kajal-gujar-92431933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Kajal-Gujar"
+                }
+            ],
+            "skills": [
+                "C",
+                "html",
+                "css",
+                "javascript",
+                "java"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Sonavane Yuvraj Tushar ",
+            "email": "yuvasmail1@gmail.com",
+            "phone_number": 9270010103,
+            "roll_number": 246263,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Yuvraj Sonavane "
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Pare Prajakta Prabhakar ",
+            "email": "prajaktapare19@gmail.com",
+            "phone_number": 9112145470,
+            "roll_number": 246249,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "prajaktapare19"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "prajakta-pare-251353323"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "PrajaktaPare"
+                }
+            ],
+            "skills": [
+                
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Choudhary Geeta Gamnaram ",
+            "email": "geetaseervi.2002@gmail.com",
+            "phone_number": 7769852158,
+            "roll_number": 246244,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/geetac123"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "geeta-choudhary-a5710a337"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Geeta-Choudhary"
+                }
+            ],
+            "skills": [
+                "Python",
+                "C"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Deepvijay chavan ",
+            "email": "chavandeepvijay@gmail.com",
+            "phone_number": 8421390083,
+            "roll_number": 246242,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "Deepvijay2003"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "Chavandeepvijay"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "deepvijay-chavan-346772253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "More Aditya Satish",
+            "email": "moreaditya144@gmail.com",
+            "phone_number": 9960113338,
+            "roll_number": 246201,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "Adimore9116"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "@moreaditya144"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "www.linkedin.com/in/aditya-more-846158287"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Adi-9116"
+                }
+            ],
+            "skills": [
+                "Basic python",
+                "java",
+                "c"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Abuj Prakash Rajendra",
+            "email": "prakashabuj8@gmail.com",
+            "phone_number": 9503855224,
+            "roll_number": 246266,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "prakash-abuj-145596267"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Prakash-Abuj"
+                }
+            ],
+            "skills": [
+                "Java",
+                "python",
+                "c"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Dewre Rohini Chintamani",
+            "email": "rohini.dewre123@gmail.com",
+            "phone_number": 8378869255,
+            "roll_number": 246253,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/RohiniDewre"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "rohini_dewre123"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "linkedin.com/in/rohini-dewre-0184a6227"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "rohini0827"
+                }
+            ],
+            "skills": [
+                "Python",
+                "Java",
+                "HTML-CSS",
+                "JS",
+                "PHP"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Pasalkar Vaibhavi Sanjay",
+            "email": "vaibhavipasalkar2004@gmail.com",
+            "phone_number": 7972291891,
+            "roll_number": 246260,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "www.linkedin.com/in/vaibhavi-pasalkar-0664a2319"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "pasalkarvaibhavi github"
+                }
+            ],
+            "skills": [
+                "Java Python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Rao Yashraj ",
+            "email": "yashrajrao7@gmail.com",
+            "phone_number": 9359287778,
+            "roll_number": 246228,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "."
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "."
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Hacked Hai account Will create a New One."
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "yashrajrao7"
+                }
+            ],
+            "skills": [
+                "Python",
+                "Java",
+                "C",
+                "C++",
+                "Sql",
+                "Html/Css."
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Naikwade Pushkaraj Rajesh",
+            "email": "pushkarnaikwade@gmail.com",
+            "phone_number": 8669553596,
+            "roll_number": 246217,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/PushkarajNaikwade"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "naikwadepushkar1"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "pushkaraj-naikwade-005a10264"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "PUSHKARAJNAIKWADE"
+                }
+            ],
+            "skills": [
+                "java"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Kulkarni Sharvari A",
+            "email": "ksharvari2003@gmail.com",
+            "phone_number": 7722002504,
+            "roll_number": 246257,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "www.linkedin.com/in/sharvari-kulkarni-569b8a272"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Sharvarii-Kulkarni"
+                }
+            ],
+            "skills": [
+                "Python",
+                "C",
+                "PosgreSQL",
+                "HTML",
+                "Javascript",
+                "CSS",
+                "Java"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Dighe Atharva Ajey ",
+            "email": "atharvadighe2@gmail.com",
+            "phone_number": 7447594541,
+            "roll_number": 246205,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/Atharva_Dighe"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "atharvawork_3"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "atharva-dighe-162981249"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Atharva-Dighe/Atharva-Dighe"
+                }
+            ],
+            "skills": [
+                "C",
+                "PYTHON"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Sanklecha Viva Pravin",
+            "email": "vivasanklecha03@gmail.com",
+            "phone_number": 9922990257,
+            "roll_number": 246227,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "viva-sanklecha-2523a9237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                "Java",
+                "C"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Gaikwad Sakshi Arun ",
+            "email": "sakshisneha0704@gmail.com",
+            "phone_number": 7588703604,
+            "roll_number": 246255,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "sakshiarungaikw1"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "sakshi-gaikwad-1999b1287"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                ""
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Khairnar Vedant Rajendra ",
+            "email": "Vedant3khairnar@gmail.com",
+            "phone_number": 9423322144,
+            "roll_number": 246261,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": ""
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Vedant Khairnar "
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": ""
+                }
+            ],
+            "skills": [
+                "C",
+                "CPP",
+                "PYTHON",
+                "JAVA"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Kinge Roshani Sunil",
+            "email": "roshanikinge20@gmail.com",
+            "phone_number": 9322036507,
+            "roll_number": 246219,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": ""
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "roshanikinge20"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "roshani-kinge-a3a452273"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "roshanikinge"
+                }
+            ],
+            "skills": [
+                
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Shinde Karuna Ajit.",
+            "email": "karunashinde22042003@gmail.com",
+            "phone_number": 9766168205,
+            "roll_number": 246212,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/karuna_2243"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "karunashinde2201"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "karuna-shinde-477751284"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "karuna-2243"
+                }
+            ],
+            "skills": [
+                "C",
+                "python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Ahire Mayur Pralhad ",
+            "email": "mayurahire517@gmail.com",
+            "phone_number": 7666859152,
+            "roll_number": 246230,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/mayur_ahire"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "mayurahire06"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "www.linkedin.com/in/mayurahire06"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "mayurahire06"
+                }
+            ],
+            "skills": [
+                "C",
+                "Java",
+                "Python",
+                "Javascript"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Bendkule Deva Ramesh ",
+            "email": "devabendkule17@gmail.com",
+            "phone_number": 9922161064,
+            "roll_number": 246207,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "devabendkule17"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "devabendkule17 "
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "Deva Bendkule "
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "Dev-RB-coder"
+                }
+            ],
+            "skills": [
+                "Python"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        },
+        {
+            "name": "Dhimar Arin Avinash",
+            "email": "alvfcoc@gmail.com",
+            "phone_number": 8200842688,
+            "roll_number": 246203,
+            "profiles": [
+                {
+                    "platform": "leetcode",
+                    "base_url": "https://leetcode.com/",
+                    "username": "u/arin_dhimar"
+                },
+                {
+                    "platform": "hackerrank",
+                    "base_url": "https://www.hackerrank.com/profile/",
+                    "username": "arindhimar111"
+                },
+                {
+                    "platform": "linkedin",
+                    "base_url": "https://www.linkedin.com/in/",
+                    "username": "arin-dhimar"
+                },
+                {
+                    "platform": "github",
+                    "base_url": "https://github.com/",
+                    "username": "arindhimar"
+                }
+            ],
+            "skills": [
+                "Python",
+                "Flask",
+                "Git",
+                "HTML",
+                "CSS",
+                "JS",
+                "JQuery",
+                "C",
+                "CPP",
+                "Kotlin",
+                "SQL",
+                "PHP",
+                "VB.NET",
+                "FireBase"
+            ],
+            "acadamic_details": {
+                "CGPA": "9.4",
+                "year": "2024-2025",
+                "current_semester": "2nd"
+            },
+            "placement_details": {
+                "company": "",
+                "package": "",
+                "status": "Not-placed"
+            }
+        }
+    ]
+}
